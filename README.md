@@ -10,7 +10,7 @@
 * HTML
 * CSS
 * JS
-* React js
+* REACT
 
 ### Features
 * Two threads available for both movies and TV shows
