@@ -7,8 +7,10 @@
 # About Project
 
 ### Tech Stack Used:
-* React js
+* HTML
 * CSS
+* JS
+* React js
 
 ### Features
 * Two threads available for both movies and TV shows
